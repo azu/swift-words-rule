@@ -15,7 +15,6 @@ var dict = {
     "解放子": "deinitializer",
     "添字": "subscript",
     "パターンマッチ": "pattern-matching",
-    "ARC": "ARC",
     "オプショナル型": "optional types",
     "取り出し": "unwrap"
 };
