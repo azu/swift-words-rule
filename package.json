@@ -25,5 +25,8 @@
     "mocha": "^2.1.0",
     "power-assert": "^0.10.0",
     "textlint": "^1.4.3"
+  },
+  "dependencies": {
+    "textlint-rule-helper": "^1.1.2"
   }
 }

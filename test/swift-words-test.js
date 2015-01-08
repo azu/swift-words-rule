@@ -7,7 +7,6 @@ var textlint = require("textlint").textlint;
 describe("swift-words-test", function () {
     beforeEach(function () {
         textlint.setupRules({
-            // rule-key : rule
             "swift-words": rule
         });
     });
