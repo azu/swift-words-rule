@@ -1,0 +1,17 @@
+{
+  "構造体": "structure",
+  "クラス": "class",
+  "列挙型": "enumeration",
+  "プロトコル": "protocol",
+  "総称": "generics",
+  "変異メソッド": "mutating method",
+  "パターンズ": "patterns",
+  "格納プロパティ": "stored property",
+  "算出プロパティ": "computed property",
+  "初期化子": "initializer",
+  "解放子": "deinitializer",
+  "添字": "subscript",
+  "パターンマッチ": "pattern-matching",
+  "オプショナル型": "optional types",
+  "取り出し": "unwrap"
+}

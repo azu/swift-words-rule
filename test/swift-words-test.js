@@ -17,7 +17,6 @@ describe("swift-words-test", function () {
     context("when fail.md", function () {
         it("should have error messages", function () {
             var result = textlint.lintFile(__dirname + "/fixtures/fail.md");
-            console.log(result.messages);
             assert(result.messages.length > 0);
         });
     });
